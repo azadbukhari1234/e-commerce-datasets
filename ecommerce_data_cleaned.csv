@@ -1,0 +1,8 @@
+order_id,customer_name,product_name,order_date,quantity,price,customer_email
+1001,John Doe,Laptop,2023-10-01,1,999.99,john@example.com
+1002,Jane Smith,Phone,2023-10-02,2,599.99,jane.smith@example.com
+1003,Unknown,Tablet,2023-10-03,2,299.99,alice@
+1004,Alice Brown,Headphones,2023-01-01,3,299.99,alice.brown@example.com
+1005,Bob Wilson,Mouse,2023-10-05,0,19.99,no_email@example.com
+1006,Emma Davis,Keyboard,2023-10-06,2,79.99,emma.davis@example.com
+1007,Unknown,Laptop,2023-10-07,1,999.99,john@example.com
